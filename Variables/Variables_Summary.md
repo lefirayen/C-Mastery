@@ -1,14 +1,12 @@
 <div>
-<p>
--What's a Variable ?
+    <p>
+        <strong>– What’s a Variable?</strong><br><br>
 
- a variable is named storage location in memory for a specific type of data
- 
-Exemple:
+        A variable is a <strong>named storage location in memory</strong> that holds a specific type of data.<br><br>
 
-int age = 18;
+        <strong>Example:</strong><br>
+        <code>int age = 18;</code><br><br>
 
-this line of code creates a integer variable that stores the number 18.
-
-</p>
+        This line of code creates an integer variable named <code>age</code> that stores the number <strong>18</strong>.
+    </p>
 </div>
