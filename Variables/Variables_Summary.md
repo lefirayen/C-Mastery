@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <p>
 -What's a Variable ?
 
